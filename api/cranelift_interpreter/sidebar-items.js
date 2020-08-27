@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["environment","Implements the function environment (e.g. a name-to-function mapping) for interpretation."],["frame","Implements a call frame (activation record) for the Cranelift interpreter."],["interpreter","Cranelift IR interpreter."]]});

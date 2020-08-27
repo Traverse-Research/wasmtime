@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Path","A path through the data-flow graph from the root instruction."],["PathId","An identifier for an interned path."],["PathInterner","An interner and de-duplicator for `Path`s."]]});
